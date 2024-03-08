@@ -10,7 +10,7 @@ const IBMPlex = IBM_Plex_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Creatify AI",
+  title: "fotoAI",
   description: "Generated and Design your next Image via AI",
 };
 
